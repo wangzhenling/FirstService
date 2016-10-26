@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FirstService</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_start">启动Service</string>
+    <string name="btn_stop">停止Service</string>
+    <string name="btn_bangding">绑定Service</string>
+    <string name="btn_jiebang">解绑Service</string>
+    <string name="btn_getdata">获取数据</string>
+    <string name="title_activity_my_service">MyService</string>
+    <string name="hello_world">请输入手机号码</string>
+    <string name="tv_message">请输入短信内容</string>
+    <string name="btn_sendmessage">发送短信</string>
+
+</resources>
